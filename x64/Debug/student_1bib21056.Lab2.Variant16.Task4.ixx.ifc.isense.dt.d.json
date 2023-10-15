@@ -1,0 +1,27 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\все, что связано с учебой\\разработка безопасного по\\лр 2\\задание 4\\student_1bib21056.lab2.variant16.task4.ixx",
+        "ProvidedModule": "student_1bib21056.Lab2.Variant16.Task4",
+        "Includes": [],
+        "ImportedModules": [
+            {
+                "Name": "student_1bib21056.Lab2.Variant16.Task4:f1",
+                "BMI": "C:\\Все, что связано с учебой\\Разработка безопасного ПО\\Лабораторная 2\\x64\\Debug\\f1_module.ixx.ifc.dt"
+            },
+            {
+                "Name": "student_1bib21056.Lab2.Variant16.Task4:f2",
+                "BMI": "C:\\Все, что связано с учебой\\Разработка безопасного ПО\\Лабораторная 2\\x64\\Debug\\f2_module.ixx.ifc.dt"
+            },
+            {
+                "Name": "student_1bib21056.Lab2.Variant16.Task4:f3",
+                "BMI": "C:\\Все, что связано с учебой\\Разработка безопасного ПО\\Лабораторная 2\\x64\\Debug\\f3_module.ixx.ifc.dt"
+            },
+            {
+                "Name": "student_1bib21056.Lab2.Variant16.Task4:f4",
+                "BMI": "C:\\Все, что связано с учебой\\Разработка безопасного ПО\\Лабораторная 2\\x64\\Debug\\f4_module.ixx.ifc.dt"
+            }
+        ],
+        "ImportedHeaderUnits": []
+    }
+}

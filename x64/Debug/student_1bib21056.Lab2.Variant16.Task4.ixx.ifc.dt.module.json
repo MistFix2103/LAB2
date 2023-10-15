@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\все, что связано с учебой\\разработка безопасного по\\лр 2\\задание 4\\student_1bib21056.lab2.variant16.task4.ixx",
+        "ProvidedModule": "student_1bib21056.Lab2.Variant16.Task4",
+        "ImportedModules": [
+            "student_1bib21056.Lab2.Variant16.Task4:f1",
+            "student_1bib21056.Lab2.Variant16.Task4:f2",
+            "student_1bib21056.Lab2.Variant16.Task4:f3",
+            "student_1bib21056.Lab2.Variant16.Task4:f4"
+        ],
+        "ImportedHeaderUnits": []
+    }
+}

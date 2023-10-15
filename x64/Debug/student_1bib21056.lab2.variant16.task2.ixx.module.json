@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\student_1bib21056.Lab2.Variant16.Task2.ixx.obj",
+            "outputs": [
+                "C:\\Все, что связано с учебой\\Разработка безопасного ПО\\Лабораторная 2\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\",
+                "C:\\Все, что связано с учебой\\Разработка безопасного ПО\\Лабораторная 2\\x64\\Debug\\student_1bib21056.Lab2.Variant16.Task2.ixx.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "student_1bib21056.Lab2.Variant16.Task2",
+                    "source-path": "c:\\все, что связано с учебой\\разработка безопасного по\\лр 2\\задание 2\\student_1bib21056.lab2.variant16.task2.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
